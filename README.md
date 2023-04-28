@@ -3,9 +3,9 @@
 
 Uma página de login completa usando express para criar e manusear api e servidores, e usando firebase para autenticar, criar e redefinir senhas de usuarios.
 
-![login]('/images_README/login-page.png')
-![reset-password]('/images_README/reset-password.png')
-![sign-up]('/images_README/sign-up.png')
+![login](./images_README/login-page.png)
+![reset-password](./images_README/reset-password.png)
+![sign-up](./images_README/sign-up.png)
 
 
 
@@ -21,7 +21,7 @@ npm start
 
 O link para a sua pagina irá aparecer no console:
 
-![console]('./images_README/console-1.png')
+![console](./images_README/console-1.png)
 
 Ao fazer isso, vá para a url indicada e você estará pronto para usar normalmente a pagina de login.
 
