@@ -1,0 +1,22 @@
+{
+  "name": "login-with-firebase-auth",
+  "version": "1.0.0",
+  "description": "A login page that uses firebase auth for authentication.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "keywords": [
+    "Firebase",
+    "Login Page"
+  ],
+  "author": "João Carvalho",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "firebase": "^9.20.0",
+    "path": "^0.12.7"
+  }
+}
